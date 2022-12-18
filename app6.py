@@ -6,7 +6,7 @@ import openai
 
 
 # Set the API key and model
-api_key = "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"
+api_key = "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"
 openai.api_key = api_key
 
 # add banner
